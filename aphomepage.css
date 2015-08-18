@@ -1,0 +1,43 @@
+header {
+	height: 80px;
+	background-color: #a7cece;
+	margin: 0px 0px 0px 0px;
+	padding: 0px;
+	display: all;
+}
+#logo {
+	float: left;
+}
+#question {
+	position: relative;
+	left: 400px;
+	top: 35px;
+}
+#login {
+	float: right;
+}
+#table {
+	display: table;
+	border-spacing: 5px;
+}
+#row {
+	display: table-row;
+}
+#adver {
+	display: table-cell;
+	border-style: dotted;
+	width: 350px;
+}
+#register {
+	display: table-cell;
+	border-style: dotted;
+	width: 350px;
+}
+#all {
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0px;
+	margin-bottom: 0px;
+
+}
